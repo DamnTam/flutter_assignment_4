@@ -127,7 +127,7 @@ class _MyHomeState extends State<MyHome> {
                             const Padding(
                               padding: EdgeInsets.all(8.0),
                               child: Text(
-                                'Tanvir Ahmed',
+                                'Tanvir Ahmed Moon',
                                 style: TextStyle(
                                     fontSize: 20, fontWeight: FontWeight.w600),
                               ),

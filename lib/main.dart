@@ -125,7 +125,7 @@ class _MyHomeState extends State<MyHome> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             const Padding(
-                              padding: EdgeInsets.all(8.0),
+                              padding: EdgeInsets.all(8),
                               child: Text(
                                 'Tanvir Ahmed Moon',
                                 style: TextStyle(
